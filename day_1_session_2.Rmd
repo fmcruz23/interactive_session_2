@@ -57,7 +57,7 @@ ex_3 <- seq(from = 1, to = 5000, by = 10)
   
   }
 
-  pop_logistic(capacity = 2580, init_pop = 230, rate = 0.32, time_yr = 2.4)
+  pop_logistic(capacity = 2680, init_pop = 230, rate = 0.32, time_yr = 2.4)
 ```
   
 ### Try finding population over a sequence of times 
