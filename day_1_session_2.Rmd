@@ -69,7 +69,7 @@ Now let's estimate the population over that range of times, given capacity = 258
 initial population = 230, rate, 0.32
 
 ```{r}
-chipmunk_pop <- pop_logistic(capacity = 2580, init_pop = 230, rate = 0.32, time_yr = time_vec)
+chipmunk_pop <- pop_logistic(capacity = 2680, init_pop = 230, rate = 0.32, time_yr = time_vec)
 
 ```
 
